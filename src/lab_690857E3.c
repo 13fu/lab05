@@ -1,4 +1,5 @@
-
+#include <stdio.h>
+#include "lab_690857E3.h"
 void copy(char *psource, char *ptarget, unsigned num_char)
 {
     if (psource == NULL || ptarget == NULL)
